@@ -1,0 +1,37 @@
+.custom1{
+    height: 100vh;
+}
+.custom2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40vw;
+    height: 30vw;
+    background-color: black;
+    border-radius: 20px;
+}
+.display{
+    margin-left: 20px;
+    margin-top: 2vw;
+    width: 30vw;
+    height: 5vw;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.clear{
+    margin-top: 3vw;
+}
+.buttons{
+    margin-top: 100px;
+}
+.btn{
+    width: 50px;
+    color: white;
+}
+.row{
+    height: 10vh;
+}
+.tableyo{
+    max-height: fit-content;
+}
